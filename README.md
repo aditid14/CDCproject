@@ -20,3 +20,8 @@ I learned the importance of thoroughly understanding the code and what it does, 
 
 ## What's next for Understanding Seasonality of Deaths in Relation to Age Group
 It could be interesting to further understand the relavance of deaths for the 65+ group for other diseases as well in terms of seasonality and location. This would allow that population to be aware of other factors when traveling to different state, especially during the winter.
+
+
+** I did not know how to add comments to the code snippets I got with the help of AI, so I will include a list here :
+- Predictive model code
+- Analyzing chi-squared result
